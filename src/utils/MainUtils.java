@@ -7,6 +7,9 @@ public class MainUtils {
     public void funMethod(){
 
     }
+    public void out(){
+
+    }
     //mainUtils created
     //....
     //2nd addition
